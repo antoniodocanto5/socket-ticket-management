@@ -11,11 +11,11 @@ Compilador GCC => versiao 10.2.1-6
 ## DIRETORIOS
 Diretorio server e client
 
-##COMPILACAO
+## COMPILACAO
 gcc -o server server.c  
 gcc -o client client.c  
 
-##EXECUCAO
+## EXECUCAO
 ./server  
 ./client  
 
