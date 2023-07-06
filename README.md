@@ -8,15 +8,15 @@ Compilador GCC => versiao 10.2.1-6
 [opcional] editor de texto VIM
 [opcional] editor de texto sublime text
 
-##DIRETORIOS
+## DIRETORIOS
 Diretorio server e client
 
 ##COMPILACAO
-gcc -o server server.c
-gcc -o client client.c
+gcc -o server server.c  
+gcc -o client client.c  
 
 ##EXECUCAO
-./server
-./client
+./server  
+./client  
 
 NOTA: E necessario executar server antes de poder executar o ficheiro executavel client 
